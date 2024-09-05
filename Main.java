@@ -13,7 +13,7 @@ public class Main {
 
 
     public static void respostaQuestao1(){
-        System.out.printf("Resposta da Questão 1: %d%n", 91);
+        System.out.printf("Resposta da Questão 1: %d%n", 90);
     }
 
 
